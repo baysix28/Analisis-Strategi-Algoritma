@@ -531,4 +531,3 @@ if __name__ == "__main__":
         print()
 
     print("  ★ = Hard Constraint (wajib masuk: P01 Pendidikan, P04 Kesehatan)")
-    print(f"\n  ✓ Semua eksperimen selesai. Data ini digunakan untuk Bagian VI makalah.")
