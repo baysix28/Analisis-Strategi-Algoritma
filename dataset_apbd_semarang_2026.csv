@@ -1,0 +1,41 @@
+id,kode,nama_program,dinas,sektor,kecamatan,anggaran_juta,penerima_ribu,urgensi,pct_modal,skor_dampak,hard_constraint
+P01,1.01.02,Program Pengelolaan Pendidikan (SD & SMP),Dinas Pendidikan,Pendidikan,Semua,450000,280,5,0.3,51.9,True
+P02,1.01.03,Program Pengembangan Kurikulum,Dinas Pendidikan,Pendidikan,Semua,3500,12,3,0.05,25.1,False
+P03,1.01.04,Program Pendidik dan Tenaga Kependidikan,Dinas Pendidikan,Pendidikan,Semua,8200,9,3,0.02,24.5,False
+P04,1.02.02,Program Pemenuhan Upaya Kesehatan Perorangan dan Masyarakat,Dinas Kesehatan,Kesehatan,Semua,520000,1700,5,0.2,88.0,True
+P05,1.02.03,Program Peningkatan Kapasitas SDM Kesehatan,Dinas Kesehatan,Kesehatan,Semua,5400,4,3,0.05,24.9,False
+P06,1.02.05,Program Pemberdayaan Masyarakat Bidang Kesehatan,Dinas Kesehatan,Kesehatan,Semua,12000,85,4,0.08,35.5,False
+P07,1.03.10,Program Penyelenggaraan Jalan,Dinas PUPR,Infrastruktur,Semua,280000,900,5,0.85,76.6,False
+P08,1.03.06,Program Pengelolaan dan Pengembangan Sistem Drainase,Dinas PUPR,Infrastruktur,"Genuk, Semarang Utara, Gayamsari",95000,320,5,0.8,60.5,False
+P09,1.03.03,Program Pengelolaan dan Pengembangan Sistem Penyediaan Air Minum,Dinas PUPR,Infrastruktur,"Gunungpati, Mijen, Tugu",42000,180,4,0.75,48.0,False
+P10,1.03.05,Program Pengelolaan dan Pengembangan Sistem Air Limbah,Dinas PUPR,Infrastruktur,"Tembalang, Banyumanik, Pedurungan",38000,150,4,0.78,47.7,False
+P11,1.03.08,Program Penataan Bangunan Gedung,Dinas PUPR,Infrastruktur,"Semarang Tengah, Semarang Barat",22000,40,2,0.7,27.6,False
+P12,1.04.03,Program Kawasan Permukiman,Dinas Perumahan dan Kawasan Permukiman,Perumahan,"Semarang Utara, Gayamsari, Genuk",65000,210,4,0.72,48.4,False
+P13,1.04.02,Program Pengembangan Perumahan,Dinas Perumahan dan Kawasan Permukiman,Perumahan,"Ngaliyan, Tembalang, Mijen",28000,95,3,0.65,36.3,False
+P14,1.04.05,"Program Peningkatan Prasarana, Sarana dan Utilitas Umum (PSU)",Dinas Perumahan dan Kawasan Permukiman,Perumahan,"Tembalang, Banyumanik",15000,60,3,0.68,35.8,False
+P15,1.05.02,Program Peningkatan Ketenteraman dan Ketertiban Umum,Satpol PP,Ketertiban,Semua,18000,1700,3,0.12,70.8,False
+P16,1.05.03,Program Penanggulangan Bencana,BPBD,Ketertiban,"Genuk, Semarang Utara, Tugu",25000,420,5,0.35,56.4,False
+P17,1.05.04,"Program Pencegahan, Penanggulangan, dan Penyelamatan Kebakaran",Dinas Pemadam Kebakaran,Ketertiban,Semua,14000,1700,4,0.28,81.2,False
+P18,1.06.05,Program Perlindungan dan Jaminan Sosial,Dinas Sosial,Sosial,Semua,88000,230,5,0.02,46.4,False
+P19,1.06.04,Program Rehabilitasi Sosial,Dinas Sosial,Sosial,Semua,12500,18,4,0.1,34.0,False
+P20,1.06.02,Program Pemberdayaan Sosial,Dinas Sosial,Sosial,Semua,9800,45,3,0.05,25.9,False
+P21,2.07.03,Program Pelatihan Kerja dan Produktivitas Tenaga Kerja,Dinas Tenaga Kerja,Ketenagakerjaan,Semua,11000,22,4,0.08,33.8,False
+P22,2.07.04,Program Penempatan Tenaga Kerja,Dinas Tenaga Kerja,Ketenagakerjaan,Semua,4200,8,3,0.03,24.7,False
+P23,2.11.11,Program Pengelolaan Persampahan,Dinas Lingkungan Hidup,Lingkungan,Semua,145000,1700,5,0.4,91.0,False
+P24,2.11.03,Program Pengendalian Pencemaran dan Kerusakan Lingkungan,Dinas Lingkungan Hidup,Lingkungan,"Genuk, Semarang Timur, Semarang Utara",18500,280,4,0.2,42.4,False
+P25,2.15.02,Program Penyelenggaraan Lalu Lintas dan Angkutan Jalan (LLAJ),Dinas Perhubungan,Transportasi,Semua,72000,850,4,0.45,61.3,False
+P26,2.17.07,"Program Pemberdayaan Usaha Menengah, Kecil, dan Mikro (UMKM)",Dinas Koperasi dan UMKM,Ekonomi,Semua,9500,55,3,0.06,26.4,False
+P27,2.17.08,Program Pengembangan UMKM,Dinas Koperasi dan UMKM,Ekonomi,Semua,5800,30,3,0.04,25.4,False
+P28,3.26.02,Program Peningkatan Daya Tarik Destinasi Pariwisata,Dinas Pariwisata,Pariwisata,"Semarang Tengah, Gajahmungkur",18000,120,2,0.55,27.4,False
+P29,2.22.02,Program Pengembangan Kebudayaan,Dinas Kebudayaan dan Pariwisata,Pariwisata,Semarang Tengah,7200,40,2,0.15,19.3,False
+P30,2.09.03,Program Peningkatan Diversifikasi dan Ketahanan Pangan Masyarakat,Dinas Ketahanan Pangan,Pangan,"Gunungpati, Mijen, Tugu",8400,35,3,0.12,26.7,False
+P31,2.09.04,Program Penanganan Kerawanan Pangan,Dinas Ketahanan Pangan,Pangan,"Genuk, Tugu, Ngaliyan",4500,25,4,0.05,33.4,False
+P32,2.19.02,Program Pengembangan Kapasitas Daya Saing Kepemudaan,Dinas Pemuda dan Olahraga,Kepemudaan,Semua,6800,28,2,0.1,18.2,False
+P33,2.19.03,Program Pengembangan Kapasitas Daya Saing Keolahragaan,Dinas Pemuda dan Olahraga,Kepemudaan,Semua,9100,35,2,0.3,21.4,False
+P34,2.14.03,Program Pembinaan Keluarga Berencana (KB),Dinas P2KB,Kesehatan,Semua,14500,95,3,0.05,27.3,False
+P35,3.30.03,Program Peningkatan Sarana Distribusi Perdagangan,Dinas Perdagangan,Ekonomi,"Semarang Tengah, Gayamsari, Pedurungan",32000,75,3,0.75,37.2,False
+P36,3.30.04,Program Stabilisasi Harga Barang Kebutuhan Pokok,Dinas Perdagangan,Ekonomi,Semua,5200,1700,4,0.02,77.3,False
+P37,5.01.02,"Program Perencanaan, Pengendalian dan Evaluasi Pembangunan Daerah",Bappeda,Tata Kelola,Semua,9200,5,2,0.08,17.3,False
+P38,2.16.03,Program Pengelolaan Aplikasi Informatika,Diskominfo,Tata Kelola,Semua,12500,1700,3,0.25,72.7,False
+P39,7.01.03,Program Pemberdayaan Masyarakat Desa dan Kelurahan,Kecamatan (16 kec.),Pemberdayaan Masyarakat,Semua,680000,1700,4,0.25,80.8,False
+P40,7.01.02,Program Penyelenggaraan Pemerintahan dan Pelayanan Publik Kecamatan,Kecamatan (16 kec.),Tata Kelola,Semua,195000,1700,4,0.15,79.2,False
